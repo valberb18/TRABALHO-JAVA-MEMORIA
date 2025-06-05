@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"TelaCredito"},{"p":"<Unnamed>","l":"TelaFimJogo"},{"p":"<Unnamed>","l":"TelaInicial"},{"p":"<Unnamed>","l":"TelaJogo"},{"p":"<Unnamed>","l":"TelaRanking"},{"p":"<Unnamed>","l":"TelaSelc"}];updateSearchResults();
